@@ -1,5 +1,13 @@
 - 👋 Hi, I’m Lorenzo Montero
-- 👀 I’m interested in Coding, Powerlifting, and modifying cars.
+- 👀 I’m interested in 
+Coding {
+  Front End Dev
+  Back End Dev
+  Data Science
+  Blockchain Dev
+},
+Powerlifting, 
+modifying cars.
 - 🌱 I’m currently learning how to code.
 
 <!---
