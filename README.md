@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Lorenzo Montero
 - 👀 I’m interested in 
 Coding {
-  Front End Dev
-  Back End Dev
-  Data Science
+  Front End Dev,
+  Back End Dev,
+  Data Science,
   Blockchain Dev
 },
 Powerlifting, 
