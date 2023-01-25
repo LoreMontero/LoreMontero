@@ -6,8 +6,7 @@ Coding {
   Data Science,
   Blockchain Dev
 },
-Powerlifting, 
-modifying cars.
+
 - 🌱 I’m currently learning how to code.
 
 <!---
