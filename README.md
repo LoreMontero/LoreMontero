@@ -1,13 +1,10 @@
 - 👋 Hi, I’m Lorenzo Montero
 - 👀 I’m interested in 
-Coding {
+[
   Front End Dev,
-  Back End Dev,
-  Data Science,
-  Blockchain Dev
-},
+] 
 
-- 🌱 I’m currently learning how to code.
+- 🌱 I’m currently learning how to front end development.
 
 <!---
 LoreMontero/LoreMontero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
