@@ -5,7 +5,7 @@
   Back End Dev
 ] 
 
-- 🌱 I’m currently learning how Full Stack development.
+- 🌱 I’m currently learning Full Stack development.
 
 <!---
 LoreMontero/LoreMontero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
