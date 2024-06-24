@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Lorenzo Montero
 - 👀 I’m interested in 
 [
+  Web Design,
   Front End Dev,
-  Back End Dev
+  Back End Dev,
+  Blockchain Dev
 ] 
 
 - 🌱 I’m currently learning Full Stack development.
